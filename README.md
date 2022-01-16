@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hang
 - 👀 I’m interested in soccer, reading and gaming
-- 🌱 I’m currently learning Machine Learning, NPL and Distributed Storage and Clond Computing
-- 💞️ I’m looking for SDE jobs
-- 📫 How to reach me,  Email: 963632434@qq.com
+- 🌱 I’m currently learning Kubernetes, Docker and doing LeetCode questions
+- 💞️ I’m looking for looking for full time Software Development Engineer opportunities
+- 📫 How to reach me,  Email: hzong@tamu.edu
 
 <!---
 hzzong/hzzong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
