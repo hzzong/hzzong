@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hang
 - 👀 I’m interested in soccer, reading and gaming
 - 🌱 I’m currently learning Kubernetes, Docker and doing LeetCode questions
-- 💞️ I’m looking for looking for full time Software Development Engineer opportunities
-- 📫 How to reach me,  Email: hzong@tamu.edu
+- 💞️ I’m a Application Developer at ConvergeOne
+- 📫 How to reach me,  Email: charliezong18@gmail.com
 
 <!---
 hzzong/hzzong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
